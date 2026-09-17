@@ -30,6 +30,8 @@
   ],
   "optionalDependencies": {
     "@esbuild/linux-x64": "^0.28.2",
-    "@img/sharp-linux-x64": "^0.35.4"
+    "@img/sharp-linux-x64": "^0.35.4",
+    "lightningcss": "^1.29.1",
+    "@parcel/watcher": "^2.5.0"
   }
 }
