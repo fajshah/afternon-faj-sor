@@ -29,6 +29,7 @@
     "system/packages/*"
   ],
   "optionalDependencies": {
-    "@esbuild/linux-x64": "^0.28.2"
+    "@esbuild/linux-x64": "^0.28.2",
+    "@img/sharp-linux-x64": "^0.35.4"
   }
 }
